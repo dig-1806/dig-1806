@@ -2,7 +2,7 @@
 
 
 - 🔭 Primeiros Passos na Programação 
-- 🎓 Estou preste a me forma em Ads 
+- 🎓 Estou prestes a me formar em Ads 
 - 👽 Foco em ser um full stack
 - 🤓 Estudando Muito
 - 💬 dig.soares@hotmail.com

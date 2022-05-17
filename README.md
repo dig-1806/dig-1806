@@ -1,8 +1,8 @@
 ## Óla! Diego aqui Seja Bem Vindo 🤙
 
 
-- 🔭 Primeiros Passos na Programação 
-- 🎓 Estou prestes a me formar em Ads 
+- 🔭 Programador
+- 🎓 Analise e Desenvolvimento de Sistema 
 - 👽 Foco em ser um full stack
 - 🤓 Estudando Muito
 - 💬 dig.soares@hotmail.com
